@@ -9,7 +9,7 @@ it could be helpful for someone. Though this particular example app using Ionic,
 For the test purposes you can install simple node.js web server from here: https://www.npmjs.com/package/http-server
 * Ensure the platforms needed has been added into your app (e.g. android)
 ```
-cordova platform add anroid
+cordova platform add android
 ``` 
 * Ensure the following plugins were installed (file, whitelist and file-transfer)
 ```
